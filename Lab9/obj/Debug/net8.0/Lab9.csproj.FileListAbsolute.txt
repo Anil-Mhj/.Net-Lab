@@ -1,0 +1,14 @@
+/home/anil/Anil/6th_Sem/dotnet/Lab9/bin/Debug/net8.0/Lab9
+/home/anil/Anil/6th_Sem/dotnet/Lab9/bin/Debug/net8.0/Lab9.deps.json
+/home/anil/Anil/6th_Sem/dotnet/Lab9/bin/Debug/net8.0/Lab9.runtimeconfig.json
+/home/anil/Anil/6th_Sem/dotnet/Lab9/bin/Debug/net8.0/Lab9.dll
+/home/anil/Anil/6th_Sem/dotnet/Lab9/bin/Debug/net8.0/Lab9.pdb
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.GeneratedMSBuildEditorConfig.editorconfig
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.AssemblyInfoInputs.cache
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.AssemblyInfo.cs
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.csproj.CoreCompileInputs.cache
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.dll
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/refint/Lab9.dll
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.pdb
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/Lab9.genruntimeconfig.cache
+/home/anil/Anil/6th_Sem/dotnet/Lab9/obj/Debug/net8.0/ref/Lab9.dll
