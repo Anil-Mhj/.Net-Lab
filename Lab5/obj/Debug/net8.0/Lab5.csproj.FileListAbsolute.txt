@@ -12,3 +12,4 @@
 /home/anil/Anil/6th_Sem/dotnet/Lab5/obj/Debug/net8.0/Lab5.pdb
 /home/anil/Anil/6th_Sem/dotnet/Lab5/obj/Debug/net8.0/Lab5.genruntimeconfig.cache
 /home/anil/Anil/6th_Sem/dotnet/Lab5/obj/Debug/net8.0/ref/Lab5.dll
+/home/anil/Anil/6th_Sem/dotnet/Lab5/obj/Debug/net8.0/Lab5.sourcelink.json

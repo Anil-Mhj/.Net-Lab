@@ -12,3 +12,4 @@
 /home/anil/Anil/6th_Sem/dotnet/Lab4/obj/Debug/net8.0/Lab4.pdb
 /home/anil/Anil/6th_Sem/dotnet/Lab4/obj/Debug/net8.0/Lab4.genruntimeconfig.cache
 /home/anil/Anil/6th_Sem/dotnet/Lab4/obj/Debug/net8.0/ref/Lab4.dll
+/home/anil/Anil/6th_Sem/dotnet/Lab4/obj/Debug/net8.0/Lab4.sourcelink.json
