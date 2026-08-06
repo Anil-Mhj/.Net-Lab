@@ -43,6 +43,7 @@ These labs cover essential C# and object-oriented programming concepts including
 - Delegates and lambda expressions
 - Properties and methods
 - Console I/O operations
+- Generic types and methods
 
 ## Notes
 
