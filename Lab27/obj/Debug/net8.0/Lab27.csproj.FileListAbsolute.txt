@@ -1,0 +1,15 @@
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/bin/Debug/net8.0/Lab27
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/bin/Debug/net8.0/Lab27.deps.json
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/bin/Debug/net8.0/Lab27.runtimeconfig.json
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/bin/Debug/net8.0/Lab27.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/bin/Debug/net8.0/Lab27.pdb
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.GeneratedMSBuildEditorConfig.editorconfig
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.AssemblyInfoInputs.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.AssemblyInfo.cs
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.csproj.CoreCompileInputs.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.sourcelink.json
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/refint/Lab27.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.pdb
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/Lab27.genruntimeconfig.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/Lab27/obj/Debug/net8.0/ref/Lab27.dll
