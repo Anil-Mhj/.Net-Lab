@@ -1,0 +1,15 @@
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.deps.json
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.runtimeconfig.json
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/bin/Debug/net8.0/ConsoleApp6.pdb
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfoInputs.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfo.cs
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.sourcelink.json
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/refint/ConsoleApp6.dll
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.pdb
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.genruntimeconfig.cache
+/home/anil/Anil/6th_Sem/dotnet-lab/ConsoleApp6/obj/Debug/net8.0/ref/ConsoleApp6.dll
