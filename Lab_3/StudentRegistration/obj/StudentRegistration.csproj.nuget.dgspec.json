@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anil/Anil/6th_Sem/StudentRegistration/StudentRegistration.csproj": {}
+    "/home/anil/Anil/6th_Sem/dotnet-lab/Lab_3/StudentRegistration/StudentRegistration.csproj": {}
   },
   "projects": {
-    "/home/anil/Anil/6th_Sem/StudentRegistration/StudentRegistration.csproj": {
+    "/home/anil/Anil/6th_Sem/dotnet-lab/Lab_3/StudentRegistration/StudentRegistration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anil/Anil/6th_Sem/StudentRegistration/StudentRegistration.csproj",
+        "projectUniqueName": "/home/anil/Anil/6th_Sem/dotnet-lab/Lab_3/StudentRegistration/StudentRegistration.csproj",
         "projectName": "StudentRegistration",
-        "projectPath": "/home/anil/Anil/6th_Sem/StudentRegistration/StudentRegistration.csproj",
+        "projectPath": "/home/anil/Anil/6th_Sem/dotnet-lab/Lab_3/StudentRegistration/StudentRegistration.csproj",
         "packagesPath": "/home/anil/.nuget/packages/",
-        "outputPath": "/home/anil/Anil/6th_Sem/StudentRegistration/obj/",
+        "outputPath": "/home/anil/Anil/6th_Sem/dotnet-lab/Lab_3/StudentRegistration/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anil/.nuget/NuGet/NuGet.Config"
