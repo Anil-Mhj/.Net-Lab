@@ -12,7 +12,6 @@ A collection of C# laboratory exercises covering OOP fundamentals through generi
 - `Lab_1/ConsoleApp1..22` — OOP: classes, constructors, inheritance, method overloading, abstract classes, interfaces, partial classes, delegates/lambdas, indexers
 - `Lab_2/ConsoleApp1..8` — generics and collections (`List<T>`, `Dictionary<TKey,TValue>`, `Queue<T>`, `Stack<T>`)
 - `Lab_3/StudentRegistration` — ASP.NET Core MVC student CRUD app (in-memory store, no database)
-- `table_of_contents.txt` — exercise index mapping folders to topics
 
 ## Running the Labs
 
