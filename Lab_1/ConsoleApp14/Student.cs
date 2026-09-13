@@ -1,10 +1,10 @@
-namespace Lab14{
+namespace ConsoleApp14{
     public partial class Student{
         public void InputDetails(){
             Console.Write("Enter the student ID:");
             StudentId = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter the student name:");
-            StudentName = Console.ReadLine();
+            StudentName = Console.ReadLine() ?? string.Empty;
         }
 
         public void Display(){

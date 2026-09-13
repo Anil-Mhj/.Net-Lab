@@ -1,10 +1,10 @@
 using System;
 
-namespace StudentManagement{
+namespace ConsoleApp22{
     public partial class Student{
         public int Total;
         public double Percentage;
-        public string Grade;
+        public string Grade = string.Empty;
 
         public void Show(){
             Console.WriteLine($"ID: {Id}");

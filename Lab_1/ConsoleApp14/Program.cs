@@ -8,7 +8,7 @@ using System;
 namespace ConsoleApp14{
     public partial class Student{
         public int StudentId;
-        public string StudentName;
+        public string StudentName = string.Empty;
     }
 
     internal class Program{

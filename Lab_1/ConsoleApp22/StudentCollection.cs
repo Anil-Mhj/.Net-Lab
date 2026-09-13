@@ -1,4 +1,4 @@
-namespace StudentManagement{
+namespace ConsoleApp22{
     class StudentCollection{
         Student[] s = new Student[50];
 

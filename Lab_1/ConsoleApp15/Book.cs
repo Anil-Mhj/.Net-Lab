@@ -1,4 +1,4 @@
-namespace Lab15{
+namespace ConsoleApp15{
     public partial class Book{
     public void IssueBook(){
         Console.WriteLine("Book issued successfully!");        

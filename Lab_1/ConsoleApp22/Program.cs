@@ -23,20 +23,20 @@ namespace ConsoleApp22
             do
             {
                 Console.WriteLine("\n1.Add 2.View 3.Update 4.Process 5.Exit");
-                ch = int.Parse(Console.ReadLine());
+                ch = int.Parse(Console.ReadLine() ?? "0");
 
                 switch (ch)
                 {
                     case 1:
                         Student s = new Student();
                         Console.Write("ID: ");
-                        s.Id = int.Parse(Console.ReadLine());
+                        s.Id = int.Parse(Console.ReadLine() ?? "0");
                         Console.Write("Name: ");
-                        s.Name = Console.ReadLine();
+                        s.Name = Console.ReadLine() ?? string.Empty;
                         Console.Write("Marks (3): ");
-                        s.M1 = int.Parse(Console.ReadLine());
-                        s.M2 = int.Parse(Console.ReadLine());
-                        s.M3 = int.Parse(Console.ReadLine());
+                        s.M1 = int.Parse(Console.ReadLine() ?? "0");
+                        s.M2 = int.Parse(Console.ReadLine() ?? "0");
+                        s.M3 = int.Parse(Console.ReadLine() ?? "0");
                         list[n++] = s;
                         break;
 
@@ -47,16 +47,16 @@ namespace ConsoleApp22
 
                     case 3:
                         Console.Write("Enter ID: ");
-                        int id = int.Parse(Console.ReadLine());
+                        int id = int.Parse(Console.ReadLine() ?? "0");
                         for (int i = 0; i < n; i++)
                             if (list[i].Id == id)
                             {
                                 Console.Write("New Name: ");
-                                list[i].Name = Console.ReadLine();
+                                list[i].Name = Console.ReadLine() ?? string.Empty;
                                 Console.Write("Marks (3): ");
-                                list[i].M1 = int.Parse(Console.ReadLine());
-                                list[i].M2 = int.Parse(Console.ReadLine());
-                                list[i].M3 = int.Parse(Console.ReadLine());
+                                list[i].M1 = int.Parse(Console.ReadLine() ?? "0");
+                                list[i].M2 = int.Parse(Console.ReadLine() ?? "0");
+                                list[i].M3 = int.Parse(Console.ReadLine() ?? "0");
                             }
                         break;
 
