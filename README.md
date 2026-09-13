@@ -1,52 +1,57 @@
 # .NET Lab
 
-A comprehensive collection of C# programming laboratory exercises covering fundamental to advanced object-oriented programming concepts. Each lab is a standalone .NET 8.0 console application demonstrating specific programming concepts.
+A collection of C# laboratory exercises covering OOP fundamentals through generics, collections, and ASP.NET Core MVC. Each exercise is a standalone project — there is no solution file.
 
 ## Prerequisites
 
-- .NET 8.0 SDK
-- Any code editor (Visual Studio, VS Code, or JetBrains Rider)
+- .NET 10.0 SDK
+- Any editor (Visual Studio, VS Code, or JetBrains Rider)
+
+## Structure
+
+- `Lab_1/ConsoleApp1..22` — OOP: classes, constructors, inheritance, method overloading, abstract classes, interfaces, partial classes, delegates/lambdas, indexers
+- `Lab_2/ConsoleApp1..8` — generics and collections (`List<T>`, `Dictionary<TKey,TValue>`, `Queue<T>`, `Stack<T>`)
+- `Lab_3/StudentRegistration` — ASP.NET Core MVC student CRUD app (in-memory store, no database)
+- `table_of_contents.txt` — exercise index mapping folders to topics
 
 ## Running the Labs
 
-To run any specific lab:
+Console exercises (pick the project directory):
 
 ```bash
-cd Lab[X]
+cd Lab_1/ConsoleApp1
 dotnet run
 ```
 
-Replace `[X]` with the lab number (e.g., `Lab1`, `Lab10`, etc.)
+```bash
+cd Lab_2/ConsoleApp4
+dotnet run
+```
 
-To build a specific lab:
+Build one project:
 
 ```bash
-cd Lab[X]
+cd Lab_1/ConsoleApp1
 dotnet build
 ```
+
+MVC app:
+
+```bash
+cd Lab_3/StudentRegistration
+dotnet run
+```
+
+Then open `http://localhost:5027` (see `Properties/launchSettings.json` for the `http`/`https` profiles).
 
 ## Technology Stack
 
 - **Language:** C#
-- **Framework:** .NET 8.0
-- **Project Type:** Console Applications
-
-## Learning Objectives
-
-These labs cover essential C# and object-oriented programming concepts including:
-
-- Classes and objects
-- Constructors (default and parameterized)
-- Method overloading
-- Abstract classes and inheritance
-- Partial classes
-- Delegates and lambda expressions
-- Properties and methods
-- Console I/O operations
-- Generic types and methods
+- **Framework:** .NET 10.0 (`ImplicitUsings` + `Nullable` enabled)
+- **Project types:** console apps (`Microsoft.NET.Sdk`), one MVC web app (`Microsoft.NET.Sdk.Web`)
 
 ## Notes
 
-- Each lab is self-contained and can be run independently
-- All projects target .NET 8.0
-- Labs follow a progressive difficulty curve from basic to advanced concepts
+- Each project is self-contained and runs independently.
+- The assignment text for console labs lives in the header comment of each `Program.cs`.
+- `bin/` and `obj/` are git-ignored build output — never commit them.
